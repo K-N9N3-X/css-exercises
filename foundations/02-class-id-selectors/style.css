@@ -1,0 +1,16 @@
+.first-group {
+background-color: #f863a1;
+font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+#second {
+    color: blue;
+    font-size: 36px;
+}
+.first-group#third {
+    font-size: 24px;
+}
+#fourth {
+    background-color: rgb(13, 244, 13);
+    font-size: 24px;
+    font-weight: 800;
+}
